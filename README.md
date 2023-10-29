@@ -1,7 +1,7 @@
 # Guessing Game 
 
 1. In this game, the user is asked to choose a 
-number from `1 to 100` 
+number from `1 to n` 
 
 2. The Python program then has to guess what the number is. 
 
@@ -20,8 +20,3 @@ to these questions.
 ## Bonus
 7. The challenge in writing the program is to 
 guess the answer in the least number of questions possible.
-
-### Misc 
-- Consider generating a flowchart 
-- As a front end, will you see Tkinter or Pygame? 
-- How soon can you generate a working game?
