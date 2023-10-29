@@ -17,6 +17,5 @@ to these questions.
 
 6. The program continues to provide additional guess until the user's number has been guessed.
 
-## Bonus
 7. The challenge in writing the program is to 
 guess the answer in the least number of questions possible.
