@@ -8,10 +8,9 @@ number from `1 to n`
 3. The program can ask `“Is it 32?”`
 
 4. The user running the program then must respond with any one of the following three options: 
-    - `“higher (H/h)”`  or  
-	 - `“lower (L/l)”`   
-	 - `"yes"`   
-to these questions.
+    - `“higher (H)”`  or  
+    - `“lower (L)”`   
+    - `"yes"`   to these questions.
 
 5. The program keeps a count (or tally) of the number of questions that it has asked. 
 
