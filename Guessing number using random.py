@@ -2,7 +2,7 @@ import random
 
 print("Guessing Game!")
 print("----------------------------------")
-print("Think of a number between 1 to 100")
+print("Think of a number between 1 to N")
 print("----------------------------------")
 
 a_list=[]
@@ -19,7 +19,7 @@ while True:
   if number not in a_list:
     print(number)
     answer=input("Is my guess correct (Y), your number is too high (H), or too low (L)?: ")
-
+    
     if (answer == "Y"):
       print()
       print(f"I guessed the number {number} in {Try}tries")
