@@ -3,7 +3,7 @@ print("----------------------------------")
 print("Think of a number between 1 to N")
 print("----------------------------------")
 
-range=int(input("Enter the range: ))
+range=int(input("Enter the range: "))
 low = 1
 high = range
 Try=0
